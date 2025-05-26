@@ -14,7 +14,7 @@ metadata:
     appstudio.openshift.io/application: test-repo-public-stage
     appstudio.openshift.io/component: test-repo-public-stage
     pipelines.appstudio.openshift.io/type: build
-  name: test-repo-public-stage-on-push
+  #name: test-repo-public-stage-on-push
   namespace: gbenhaim-tenant
 spec:
   params:
